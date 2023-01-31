@@ -16,6 +16,7 @@ touch <file name>       // creates file
 mkdir <folder name>     // creates folder of directory
 code .                  // vsc ma direct folder open gardine
 git add <filename>      // tells git to keep track of any file
+git add . // git add period this will add all the filesto repo
 git commit              // (local version inside computer)save the snapshot
 git commit -m "message" // commits the changes to the git hub repository
 git status // tells the local file status ex your branch is ahead of "origin master" by one commit) local ra github ma va ko file ko status
