@@ -1,0 +1,26 @@
+It keeps track of changes to code
+creeate file -> add a line -> restore a line
+we can save shapshot
+
+synchronizes code between different people
+
+
+test changes without making changes in original file
+
+revert back to old version of code.
+
+commands ||
+git clone               // it download the reprosatory
+git clone <url>         //content of repositories clone garne form github to the computer
+touch <file name>       // creates file
+mkdir <folder name>     // creates folder of directory
+code .                  // vsc ma direct folder open gardine
+git add <filename>      // tells git to keep track of any file
+git add . // git add period this will add all the filesto repo
+git commit              // (local version inside computer)save the snapshot
+git commit -m "message" // commits the changes to the git hub repository
+git status // tells the local file status ex your branch is ahead of "origin master" by one commit) local ra github ma va ko file ko status
+git push // push them to server
+git commit -am //commit all the files also leave a message
+SHA256:BZ8Lb/b0nEEb7P8WUb8g6/7beZmkRNrEEhNSFEUxRgA
+ls -la // shows hidden file
