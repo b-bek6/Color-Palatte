@@ -1,0 +1,20 @@
+/* Import google font */
+@import url('');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Snas',sans-serif;
+
+}
+body{
+    background: #E3f2fd;
+}
+.xontainer .color{
+    background: #fff;
+}
+.color .rect-box{
+    width: 185px;
+    height: 188px;
+    background: #8A6CFF;
+}
