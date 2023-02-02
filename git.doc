@@ -24,3 +24,4 @@ git push // push them to server
 git commit -am //commit all the files also leave a message
 SHA256:BZ8Lb/b0nEEb7P8WUb8g6/7beZmkRNrEEhNSFEUxRgA
 ls -la // shows hidden file
+just for consistency
