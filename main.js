@@ -9,7 +9,7 @@ const generatePalette = () => {
 const generatePalette = () => {
     let randomHex = Math.floor(Math.random()* 0xffffff).toString(16);
     randomHex = `#${randomHex.padStar(6,"0")}`;
-    console.log(randomHex)
+    console.log(randomHex);
 }
 
 refreshBtn.addEventListener("click", generatePalette);
